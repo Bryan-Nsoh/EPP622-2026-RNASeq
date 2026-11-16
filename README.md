@@ -31,7 +31,7 @@ Course materials: https://github.com/ryandkuster/EPP_575_RNA_26/wiki
 
 ## Setup
 
-Description:
+Description: 
 
 ```bash
 #!/usr/bin/env bash
@@ -60,7 +60,7 @@ Col_3h_rep3,3h,rep3,SRR18313921
 TABLE
 ```
 
-Run order, from the project folder:
+Order in which the scripts were run from the project folder:
 
 ```bash
 cd /lustre/isaac24/proj/UTK0505/bnsoh/test4
@@ -80,7 +80,7 @@ Rscript scripts/08_cold_genes.R > logs/08_cold_genes.log 2>&1
 
 ### Commands
 
-Description:
+Description: 
 
 ```bash
 #!/usr/bin/env bash
